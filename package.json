@@ -1,0 +1,22 @@
+{
+  "name": "unblockerer",
+  "version": "0.0.0",
+  "description": "unblock everyone on twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jongold/unblockerer.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Jon Gold <hello@designedbygold.com> (http://jon.gold)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jongold/unblockerer/issues"
+  },
+  "homepage": "https://github.com/jongold/unblockerer#readme"
+}
