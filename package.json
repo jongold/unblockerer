@@ -1,6 +1,6 @@
 {
   "name": "unblockerer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "unblock everyone on twitter",
   "main": "index.js",
   "scripts": {
