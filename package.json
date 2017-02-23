@@ -24,7 +24,6 @@
   "homepage": "https://github.com/jongold/unblockerer#readme",
   "dependencies": {
     "fluture": "^5.0.0",
-    "ramda": "^0.23.0",
     "ramda-fantasy": "^0.7.0",
     "twit": "^2.2.5"
   },
