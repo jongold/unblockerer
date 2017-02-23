@@ -12,7 +12,7 @@ block 20000 people — Twitter doesn't have a bulk unblock anywhere.
 * `./run.sh`
 
 ### Manual
-```
+```js
 const unblockerer = require('unblockerer');
 const Twit = require('twit');
 const T = new Twit({
